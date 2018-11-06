@@ -1,4 +1,4 @@
-# SCVNet - Sparse Cost Volume for Efficient Stereo Matching
+# SCV-Net - Sparse Cost Volume for Efficient Stereo Matching
 Our work is build on the GC-Net.
 The GC-Net is proposed in "End-to-end learning of geometry and context for deep stereo regression", by Kendall et al. in ICCV 2017.
 By making the cost volume compact and proposing an efficient similarity evaluation, we achieved faster stereo matching while improving the accuracy.
