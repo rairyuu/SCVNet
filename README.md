@@ -4,7 +4,7 @@ The GC-Net is proposed in "End-to-end learning of geometry and context for deep 
 By making the cost volume compact and proposing an efficient similarity evaluation, we achieved faster stereo matching while improving the accuracy.
 Moreover, we proposed to use weight normalization instead of batch normalization.
 This improved the performance at dim and noise regions.
-Finally, we achieved 70% GPU memory and 60% processing time reducing, while improving the matching accuracy (GC-Net: 2.87% -> Ours: 2.61%).
+Finally, we achieved 70% GPU memory and 60% processing time reducing, while improving the matching accuracy (3PE on KITTI 2015 Dataset, GC-Net: 2.87% -> Ours: 2.61%).
 
 # System requirement
 ----Python 3.6
