@@ -11,11 +11,15 @@ Finally, we achieved 70% GPU memory and 60% processing time reducing, while impr
 
 --------PyTorch 0.3.0
 
---------PyPNG
+--------torchvision 0.1.8
 
---------PIL
+--------pypng 0.0.18
 
---------numpy
+--------pillow 4.2.1
+
+--------numpy 1.13.3
+
+--------matplotlab 2.1.0
 
 # Note
 In "SCVNet/SCVNet.py", replace
