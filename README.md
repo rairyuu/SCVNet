@@ -13,7 +13,7 @@
 --------numpy
 
 # Note
-Replace
+In "SCVNet/SCVNet.py", replace
 
 ----SCENE_FLOW_TRAIN_PATH_IMAGE
 
